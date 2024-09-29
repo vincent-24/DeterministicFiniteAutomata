@@ -16,10 +16,10 @@ public class Main {
         run("M2.txt");
         run("M3.txt");
         run("M4.txt");
-        System.out.println("Our own FA's:\n");
         run("M5.txt");
         run("M6.txt");
         run("M7.txt");
+        run("M8.txt");
     }
 
     /**
